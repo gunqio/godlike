@@ -1,0 +1,12 @@
+{
+  "name": "godlike-renew",
+  "version": "1.0.0",
+  "private": true,
+  "description": "GODLIKE 面板服务器自动续期脚本",
+  "main": "godlike_renew.js",
+  "dependencies": {
+    "playwright": "^1.45.0",
+    "playwright-extra": "^4.3.6",
+    "puppeteer-extra-plugin-stealth": "^2.11.2"
+  }
+}
